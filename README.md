@@ -15,7 +15,7 @@ DiskHopper is a robust, interactive Bash script designed to safely migrate data 
 ## 📦 What DiskHopper Isn't
 ❌ It doesn't clone full partitions block-by-block (file-level migration only)  
 ❌ It doesn't add redundancy or backup logic (this is for migration)  
-❌ No automatic scheduling or concurrency—keep it manual and safe  
+❌ No automatic scheduling or concurrency—keep it manual and safe. 
 
 ## 🛠️ Requirements
 - bash
@@ -46,16 +46,9 @@ chmod +x DiskHopper.sh
 - Automatic cleanup of mounts and temporary directories, with warnings if manual cleanup is needed.
 
 ## ✨ Credits
-Originally built for moving bulk media between drives being replaced in my homelab.  
-Refined and battle-tested by SKYNET and Google on a T480S with my N100 Debian server. 
-Free to use, tweak, share—just don't sue us.
+Originally built for moving bulk media between drives being replaced in my homelab's mergerfs pool.  
+Refined and tested through trial and error and trying to convince myself that SKYNET (gpt4) isn't completely useless on a T480S with my N100 Debian server. 
+Free to use, tweak, share—just don't sue me.
 
 ## 🔗 License
 MIT License. See [LICENSE](LICENSE).
-
-## 🚀 Why "DiskHopper"?
-Because it jumps files between disks faster than a rabbit in a carrot patch. 🥕🐇💨
-# DiskHopper
-# DiskHopper
-# DiskHopper
-# DiskHopper
