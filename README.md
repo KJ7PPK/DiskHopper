@@ -46,8 +46,8 @@ chmod +x DiskHopper.sh
 - Automatic cleanup of mounts and temporary directories, with warnings if manual cleanup is needed.
 
 ## ✨ Credits
-Originally built for Chris' homelab migration.  
-Refined and battle-tested by late nights, coffee, and head scratches.  
+Originally built for moving bulk media between drives being replaced in my homelab.  
+Refined and battle-tested by SKYNET and Google on a T480S with my N100 Debian server. 
 Free to use, tweak, share—just don't sue us.
 
 ## 🔗 License
