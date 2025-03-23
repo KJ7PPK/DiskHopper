@@ -1,0 +1,7 @@
+# Ignore log files
+*.log
+migration-log-*
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
